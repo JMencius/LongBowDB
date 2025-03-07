@@ -1,0 +1,155 @@
+html {
+  background: #6282A0;
+}
+
+body {
+  padding: 50px 0;
+  margin: 0;
+  font: 20px/1.5 Lato, Arial;
+  color: #555;
+  font-weight: 300;
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
+}
+
+.wrapper {
+  width: 1200px;
+  margin: 0px auto;
+  background: #CDE9E9;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 15px;
+}
+
+header, footer {
+  display: block;
+}
+
+header {
+  border-radius: 8px 8px 0 0;
+  background: #9BC4E0;
+  position: relative;
+  padding: 15px 20px;
+  border-bottom: 1px solid #B2D2E1;
+}
+
+img {
+  max-width: 10%;
+  position: absolute;
+  top: 10%;
+  left: 33%
+}
+
+.title {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  font-size: 1.6em;
+  font-weight: 500;
+  color: #034C70;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+header h1 a {
+  text-decoration: none;
+}
+
+header h1 a:visited {
+  color:#034C70;
+}
+
+h1, h2 {
+  line-height: 1.1;
+}
+
+h2 {
+  color: #494949;
+  padding: 0;
+  margin: 20px 20px 20px;
+}
+
+.mainbody {
+  padding: 15px 20px;
+  font-size: 15px;
+  border-top: 1px solid #fff;
+  background: linear-gradient(#fafafa, #dedede 700px);
+  -webkit-border-radius: 0 0 8px 8px;
+  -moz-border-radius: 0 0 8px 8px;
+  -ms-border-radius: 0 0 8px 8px;
+  -o-border-radius: 0 0 8px 8px;
+  border-radius: 0 0 8px 8px;
+  position: relative;
+}
+
+textarea {
+  resize: none;
+}
+
+.listinput {
+  padding: 0px 30px;
+}
+
+.retrievebutton {
+  padding: 0px 45px;
+}
+
+.r {
+  line-height: 0;
+}
+
+.example li {
+  list-style-type: none;
+}
+
+footer {
+  width: 640px;
+  margin: 0 auto;
+  padding: 20px 0 0;
+  color: #ccc;
+  overflow: hidden;
+}
+footer a {
+  color: #fff;
+  font-weight: bold;
+}
+footer p {
+  float: left;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(140 140 140);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  width: 100%;
+}
+
+thead {
+  background-color: rgb(212, 211, 211);
+}
+
+th,
+td {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 10px;
+}
+
+td:last-of-type {
+  text-align: center;
+}
+
+tbody {
+  background-color: rgb(245, 245, 245);
+  text-align: center
+}
+
+tfoot th {
+  text-align: right;
+}
+
+tfoot td {
+  font-weight: bold;
+}
+
+.shrink-90 {
+  transform: scale(0.9);
+}

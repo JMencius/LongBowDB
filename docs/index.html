@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="styles/style.css" rel="stylesheet" />
+    <title>Longbow Prediction Database</title>
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <h1>
+                <div class="title">
+                <a>LongBowDB</a></div>
+                <div class="icon">
+                <a href="https://github.com/JMencius/LongBow"><img src="images/longbow-icon.png" alt="LongBow Icon" class="shrink-90";"/></a></div>
+            </h1>
+            <p>A database hosting predicted basecaller configurations of nanopore sequencing data in the SRA database</p>
+        </header>
+        <h2>Retrieve LongBow predicted nanopore sequencing configurations</h2>
+        <div class="mainbody">
+            <label for="input">Enter a SRA RUN ID list:</label>
+            <div class="r">
+                <p class="listinput"><textarea id="input" rows="4" cols="40"></textarea></p>
+                <p class="retrievebutton"><button onclick="Retrieve()">Submit</button></p>
+            </div>
+            <p id="output"></p>
+            <div class="example">
+                <p>Example:</p>
+                <ul>
+                <li>SRR12802834</li>
+                <li>ERR10772525</li>
+                <li>SRR26842286</li>
+                <li>SRR27204234</li>
+                <li>SRR23215364</li>
+                <li>ERR2585113</li>
+                <li>......</li>
+                </ul>
+            </div>
+        </div>
+        <script src="scripts/main.js" defer></script>
+    </div>
+    <footer>
+		<p>Project maintained by <a href="https://github.com/JMencius">JMencius</a> and <a href="https://github.com/Checunmily">Checunmily</a></p>
+	</footer>
+</body>
+</html>
