@@ -16,7 +16,7 @@ async function Retrieve() {
         }
 
         var results = "<table>";
-        results += "<thead><tr><th>SRA RUN ID</th><th>Flowcell</th><th>Basecaller</th><th>Basecaller Version</th><th>Mode</th><th>Flowcell and Basecaller Conf</th><th>Basecalling Mode Conf</th><th>Comment</th></tr></thead>";
+        results += "<thead><tr><th>SRA RUN ID</th><th>Flowcell</th><th>Basecaller</th><th>Basecaller Version</th><th>Mode</th><th>Confidence Level</th><th>Comment</th></tr></thead>";
         total = 0;
         count = 0;
 
@@ -27,8 +27,7 @@ async function Retrieve() {
                 count ++;
                 var pred = result.pred;
                 var note = result.note;
-                var conf1 = result.conf1;
-                var conf2 = result.conf2;
+                var conf = result.conf;
                 results += "<tr>";
                 if (pred === "Failed") {
                     results += "<td>" + line + "</td>"
@@ -37,7 +36,6 @@ async function Retrieve() {
                     results += "<td>Failed</td>";
                     results += "<td>Failed</td>";
                     results += "<td>-</td>";
-                    results += "<td>-</td>";
                 } else {
                     var entry = pred.split("-");
                     results += "<td>" + line + "</td>"
@@ -45,8 +43,7 @@ async function Retrieve() {
                     results += "<td>" + entry[1] + "</td>";
                     results += "<td>" + entry[2] + "</td>";
                     results += "<td>" + entry[3] + "</td>";
-                    results += "<td>" + conf1 + "</td>";
-                    results += "<td>" + conf2 + "</td>";
+                    results += "<td>" + conf + "</td>";
                 }
                 results += "<td>" + note + "</td>";
                 results += "</tr>";
@@ -55,13 +52,13 @@ async function Retrieve() {
 
         results += "</table>";
         results += "<p>Found " + count + " out of " + total + " results.</p>";
-        results += "<p>Database up to: " + database_upto + "</p>";
+        results += "<p>Last updated: " + database_upto + "</p>";
         results += "<p>LongBow version: " + lb_version + "</p>";
 
         if (count !== 0) {
             output.innerHTML = results;
         } else {
-            output.innerHTML = "Nothing found in database. Database up to: " + database_upto;
+            output.innerHTML = "Nothing found in database. Last updated: " + database_upto;
         }
     }
 }
