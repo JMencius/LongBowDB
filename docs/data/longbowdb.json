@@ -1,6 +1,6 @@
 {
     "database_info": {
-        "upto": "2025-03-06",
+        "upto": "2025-03-14",
         "lb_version": "2.3.0"
     },
     "SRR11467541": {
@@ -67542,5 +67542,80 @@
         "pred": "R9-Guppy-5 or 6-FAST",
         "note": "Passed",
         "conf": "medium"
+    },
+    "SRR32583799": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR32583798": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR32583797": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR32583796": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR32583795": {
+        "pred": "R9-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31699765": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31699766": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31699760": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31699761": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31699762": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31699763": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31699764": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31699757": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31699758": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31699759": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
     }
 }
