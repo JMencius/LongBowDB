@@ -1,6 +1,6 @@
 {
     "database_info": {
-        "upto": "2025-04-27",
+        "upto": "2025-06-04",
         "lb_version": "2.3.0"
     },
     "SRR11467541": {
@@ -69942,5 +69942,2675 @@
         "pred": "R9-Dorado-0-SUP",
         "note": "Passed",
         "conf": "high"
+    },
+    "SRR33755119": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755120": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755117": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755118": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755116": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755124": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755125": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755123": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755122": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755121": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755128": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755129": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755130": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755127": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755126": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755134": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755135": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755131": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755132": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755133": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755138": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755139": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755140": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755136": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755137": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755144": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755145": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755141": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755142": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755143": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755146": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755147": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755148": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755149": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755150": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33755154": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755155": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755151": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755152": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755153": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755156": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755159": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755160": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755157": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33755158": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33479961": {
+        "pred": "R9-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469140": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR33713682": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "ERR15004792": {
+        "pred": "R9-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "ERR15004793": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR33469081": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469082": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469083": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469084": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469080": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469089": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469087": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469088": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469085": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469086": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469090": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469094": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469092": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469093": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469091": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469097": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469098": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469100": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469095": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469096": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469104": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469105": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469101": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469102": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469103": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469108": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469109": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469107": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469110": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469106": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469115": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469112": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469113": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469111": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469114": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469116": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469118": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469117": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469119": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469099": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469121": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469125": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469122": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469123": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469124": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469130": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469129": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469127": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469128": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469126": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469131": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469134": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469135": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469133": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469132": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469120": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469139": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469138": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469136": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469137": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469145": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469143": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469144": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469141": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469142": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469148": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR33469150": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469149": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469147": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469146": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469155": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469153": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469154": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469151": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469152": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469156": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469158": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469159": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469160": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469157": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469163": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469161": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469162": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469164": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469165": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469166": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469167": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469168": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469169": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR33469170": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469173": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469174": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469175": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469171": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469172": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469179": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR33469180": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469176": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469177": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469178": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469181": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33469182": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33468288": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33468289": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33468290": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33468268": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33468269": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33468285": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33468286": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33468287": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33468270": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33465016": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33465017": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33465018": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "ERR14817852": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33465019": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33465020": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33465021": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33465022": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33465023": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33464817": {
+        "pred": "R10-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33464818": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33464819": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33464820": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33464821": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33464822": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33464823": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR33464824": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33464830": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33464831": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR33387468": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387467": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387466": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387465": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387464": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387471": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387470": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387469": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387473": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387472": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387478": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387477": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387474": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387476": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33387475": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33151020": {
+        "pred": "R9-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33151019": {
+        "pred": "R9-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33151018": {
+        "pred": "R9-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "ERR14817850": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33151023": {
+        "pred": "R9-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33151022": {
+        "pred": "R9-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR33151021": {
+        "pred": "R9-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR32906804": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR32906805": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR32360641": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR32360640": {
+        "pred": "R9-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR32360639": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR32182420": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837760": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837759": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837758": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837765": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837764": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837763": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837762": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837761": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837770": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837769": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837767": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837766": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837768": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837771": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837775": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837774": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837773": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837772": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837779": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837780": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837778": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837777": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837776": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837785": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837784": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837783": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837782": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837781": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837790": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837789": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837788": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837787": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837786": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837795": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837794": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837793": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837792": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837791": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837800": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837799": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837798": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837797": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837796": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837805": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837804": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837803": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837801": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837802": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837810": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837809": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837808": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837807": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837806": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837814": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837812": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837811": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837815": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837813": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837820": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837819": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837818": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837817": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837816": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837825": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837824": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837823": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837822": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837821": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837826": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837830": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837829": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837828": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837827": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837835": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837834": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837833": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837832": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837831": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837838": {
+        "pred": "R9-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837840": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837839": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837837": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837836": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837845": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31837844": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837843": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837841": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837842": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837850": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837849": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837848": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837847": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837846": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837855": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837854": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837852": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837851": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837853": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837860": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837859": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837858": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837857": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837856": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837865": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837863": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837862": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837861": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837864": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837870": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837869": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837868": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837867": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837866": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837874": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837873": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837872": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837871": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837875": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837878": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837877": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837876": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837880": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837879": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837885": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837884": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837883": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837882": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837881": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837886": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837890": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837889": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837888": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837887": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837895": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837894": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837893": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837892": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837891": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837897": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837900": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837899": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837898": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837896": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837905": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837904": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837903": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837902": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837901": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837910": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837909": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837907": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837906": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837908": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837915": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837914": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837913": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837912": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837911": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837920": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837919": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837917": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837916": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837918": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837925": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837924": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837923": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837922": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837921": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837930": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837928": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837927": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837926": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837929": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837935": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837934": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837933": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31837932": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837931": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837939": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837938": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837937": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837936": {
+        "pred": "R9-Guppy-5 or 6-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31837940": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837942": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31837941": {
+        "pred": "R9-Guppy-5 or 6-FAST",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31758808": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31758807": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31758806": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31758805": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31758804": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31713676": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31713675": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31713681": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31713680": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31713679": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31713678": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31713677": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31588529": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31588527": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31588528": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31588526": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31588525": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31588533": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31541638": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31588531": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR31588532": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31588530": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR31541639": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541640": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541641": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541642": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541643": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541647": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541648": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541644": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541645": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541646": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541653": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541649": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541650": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541651": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541652": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541658": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541654": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541655": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR31541656": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541657": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541659": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541660": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541661": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541662": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541663": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541664": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541665": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541666": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541667": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541668": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541669": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541670": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541671": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541672": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541673": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541674": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541675": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541676": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541677": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541678": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541680": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541681": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541682": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541683": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541679": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541684": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541685": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541686": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541687": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541688": {
+        "pred": "R10-Dorado-0-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541691": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541692": {
+        "pred": "R10-Dorado-0-FAST",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541689": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR31541690": {
+        "pred": "R10-Dorado-0-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR29349930": {
+        "pred": "R10-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR24708857": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR24708858": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708859": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR24708860": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708861": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR24708862": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708863": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708864": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708865": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708866": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708867": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708868": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708869": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708870": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708871": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708872": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR24708873": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708874": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR24708875": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR24708876": {
+        "pred": "R9-Guppy-5 or 6-SUP",
+        "note": "Passed",
+        "conf": "very high"
+    },
+    "SRR24708877": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708878": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708879": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708880": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708881": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708882": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708883": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708884": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708885": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708886": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708887": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708888": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR24708889": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708890": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708891": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708892": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708893": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR24708894": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708895": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708896": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708897": {
+        "pred": "Failed",
+        "note": "DOWNLOAD_FAIL",
+        "conf": "-"
+    },
+    "SRR24708898": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR24708899": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708900": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708901": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708902": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR24708903": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708904": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708905": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708906": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708907": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708908": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708909": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708910": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708911": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708912": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708913": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708914": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708915": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708916": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "medium"
+    },
+    "SRR24708917": {
+        "pred": "R9-Guppy-3 or 4-HAC",
+        "note": "Passed",
+        "conf": "high"
+    },
+    "SRR19224439": {
+        "pred": "R9-Guppy-2-NONE",
+        "note": "Passed",
+        "conf": "low"
+    },
+    "SRR19224435": {
+        "pred": "R9-Guppy-2-NONE",
+        "note": "Passed",
+        "conf": "low"
+    },
+    "SRR19224434": {
+        "pred": "R9-Guppy-2-NONE",
+        "note": "Passed",
+        "conf": "low"
     }
 }
