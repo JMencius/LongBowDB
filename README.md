@@ -2,10 +2,8 @@
 A database hosting predicted basecaller configurations of nanopore sequencing data in the SRA database.
 
 ## Link
-<br>
 https://JMencius.github.io/LongBowDB
 <br>
-<be>
 
 ## Citation
 If you used LongBowDB, please cite:
